@@ -3,6 +3,7 @@ package com.benmohammad.mvvm;
 import android.app.Activity;
 import android.app.Application;
 
+
 import com.benmohammad.mvvm.di.DaggerAppComponent;
 
 import javax.inject.Inject;
