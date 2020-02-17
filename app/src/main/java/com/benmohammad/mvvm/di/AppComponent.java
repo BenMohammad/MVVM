@@ -23,4 +23,6 @@ public interface AppComponent {
         Builder application(App application);
         AppComponent build();
     }
+
+    void inject(App app);
 }
